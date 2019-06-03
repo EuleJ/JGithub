@@ -1,7 +1,7 @@
-print("Hello XXXXさん")
+print("Good Morning XXXXさん")
 
-print("Hello XXXXさん")
+print("Good Morning XXXXさん")
 
-print("Hello appleさん")
+print("Good Morning appleさん")
 
 print(10 + 3)
